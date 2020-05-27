@@ -55,11 +55,7 @@ h3 {
   border: 1px solid #ddd;
   }
 
-/* .imageNav-photo {
-  width: 140px;
-  /* Box-model */
-  height: 140px;
-} */
+
 .imageNav-photo:hover {
   /* Visuals */
   opacity: 0.6;
